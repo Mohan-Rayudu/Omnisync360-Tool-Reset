@@ -1,0 +1,6 @@
+{
+  "name": "OmniSync 360 - Admin Android Suite",
+  "description": "Android mobile administration app connected to Supabase with encrypted service role key protection, PhonePe-style fingerprint biometric login, machine ID reset, M365 management, team leads follow-up matrix, and Outlook explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
